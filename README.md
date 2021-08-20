@@ -11,11 +11,11 @@ apt-get update && apt-get upgrade
 apt-get install wget && apt-get install curl
 ```
 ```
-wget https://raw.githubusercontent.com/OnlineHacKing/Termux-Fingerprint-Lock/master/setup
+wget https://raw.githubusercontent.com/keralahacker/Termux-Fingerprint-Lock/main/setup
 ```
 or
 ```
-curl https://raw.githubusercontent.com/OnlineHacKing/Termux-Fingerprint-Lock/master/setup > setup
+curl https://raw.githubusercontent.com/keralahacker/Termux-Fingerprint-Lock/main/setup > setup
 ```
 ```
 chmod u+x setup
